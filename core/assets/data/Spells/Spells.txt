@@ -1,0 +1,13 @@
+2
+
+<ID>0
+<Name>Bolt
+<Damage>15
+<EnergyCost>10
+<MagicCost>30
+
+<ID>1
+<Name>Slash
+<Damage>7
+<EnergyCost>10
+<MagicCost>10

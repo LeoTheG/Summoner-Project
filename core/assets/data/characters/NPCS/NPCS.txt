@@ -1,0 +1,28 @@
+3
+
+ID0
+NAMEMom
+X3
+Y3
+TEXTUREWomanTexture.png
+MAPID0
+
+Wow this game is pretty cool! You should try battling other people!
+
+ID1
+NAMEBob
+X5
+Y4
+TEXTURENPC1Texture.png
+MAPID1
+
+Hey fella, you tryin' to battle me?
+
+ID2
+NAMEGuy
+X8
+Y5
+TEXTURENPC2Texture.png
+MAPID1
+
+The roads take you to different places!
